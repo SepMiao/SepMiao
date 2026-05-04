@@ -4,6 +4,17 @@
 
 # **Welcome my Github homepage**
 
+![BiliBili Tag](https://img.shields.io/badge/BiliBili-Homepage-red?logo=bilibili&link=https://space.bilibili.com/39266933)
+
+![](https://img.shields.io/badge/CodeTool-VSCode-blue)
+![](https://img.shields.io/badge/CodeTool-HBuild-blue)
+
+![](https://img.shields.io/badge/喜欢-科技-green)
+![](https://img.shields.io/badge/喜欢-甜品-green)
+![](https://img.shields.io/badge/喜欢-游戏-green)
+![](https://img.shields.io/badge/喜欢-二次元-green)
+![](https://img.shields.io/badge/讨厌-英语-yellow)
+
 </div>
 
 ## 技术栈
@@ -11,8 +22,18 @@
 - [x] HTML
 - [x] Java
 
+## 参与的项目
+### 个人项目
+- **[March7thAssistantExtender](https://github.com/SepMiao/March7thAssistantExtender)** *(已归档。原因：个人原因，不再维护)*
+<br>
+【项目介绍】
+<br>
+作为[March7thAssistant](https://github.com/moesnow/March7thAssistant)的拓展包，拥有多账户登录和独立配置文件切换等功能，适合住校生使用，实现了无需在家即可实现全自动代肝崩铁日常
+
+### 团队项目
+- 暂无
+
 ## 教育经历
-- 完整的12年义务教育
 - 普高
 - 大专(专业：移动应用开发)
 
