@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/喜欢-游戏-green)
 ![](https://img.shields.io/badge/喜欢-二次元-green)
 ![](https://img.shields.io/badge/讨厌-英语-yellow)
+![](https://img.shields.io/badge/讨厌-闪动校园-yellow)
 
 </div>
 
