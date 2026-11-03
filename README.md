@@ -29,9 +29,7 @@
 ## 参与的项目
 ### 个人项目
 - **[March7thAssistantExtender](https://github.com/SepMiao/March7thAssistantExtender)** *(已归档。原因：个人原因，不再维护)*
-<br>
-【项目介绍】
-<br>
+【项目介绍】<br>
 作为[March7thAssistant](https://github.com/moesnow/March7thAssistant)的拓展包，拥有多账户登录和独立配置文件切换等功能，适合住校生使用，实现了无需在家即可实现全自动代肝崩铁日常
 
 ### 团队项目
