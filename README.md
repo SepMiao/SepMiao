@@ -3,10 +3,10 @@
 ![Start Sighnature][Sighnature:img]
 
 # **Welcome my Github homepage**
-![QQ Tag](https://img.shields.io/badge/九月拾猫-white?logo=qq&link=https://qm.qq.com/q/peMvDcDPX2)
-![BiliBili Tag](https://img.shields.io/badge/九月拾猫-pink?logo=bilibili&link=https://space.bilibili.com/39266933)
-![X Tag](https://img.shields.io/badge/SepMiaoFour-black?logo=x&link=https://x.com/SepMiaoFour)
-![Telegram Tag](https://img.shields.io/badge/SepMiao-lightblue?logo=telegram&link=https://t.me/SepMiao)
+[![QQ](https://img.shields.io/badge/九月拾猫-white?logo=qq)](https://qm.qq.com/q/peMvDcDPX2)
+[![BiliBili](https://img.shields.io/badge/九月拾猫-pink?logo=bilibili)](https://space.bilibili.com/39266933)
+[![X](https://img.shields.io/badge/SepMiaoFour-black?logo=x)](https://x.com/SepMiaoFour)
+[![Telegram](https://img.shields.io/badge/SepMiao-lightblue?logo=telegram)](https://t.me/SepMiao)
 
 ![VSCode Tag](https://img.shields.io/badge/CodeTool-VSCode-blue)
 ![HBuild Tag](https://img.shields.io/badge/CodeTool-HBuild-blue)
