@@ -3,11 +3,13 @@
 ![Start Sighnature][Sighnature:img]
 
 # **Welcome my Github homepage**
+![QQ Tag](https://img.shields.io/badge/九月拾猫-white?logo=qq&link=https://qm.qq.com/q/peMvDcDPX2)
+![BiliBili Tag](https://img.shields.io/badge/九月拾猫-pink?logo=bilibili&link=https://space.bilibili.com/39266933)
+![X Tag](https://img.shields.io/badge/SepMiaoFour-black?logo=x&link=https://x.com/SepMiaoFour)
+![Telegram Tag](https://img.shields.io/badge/SepMiao-lightblue?logo=telegram&link=https://t.me/SepMiao)
 
-![BiliBili Tag](https://img.shields.io/badge/BiliBili-Homepage-red?logo=bilibili&link=https://space.bilibili.com/39266933)
-
-![](https://img.shields.io/badge/CodeTool-VSCode-blue)
-![](https://img.shields.io/badge/CodeTool-HBuild-blue)
+![VSCode Tag](https://img.shields.io/badge/CodeTool-VSCode-blue)
+![HBuild Tag](https://img.shields.io/badge/CodeTool-HBuild-blue)
 
 ![](https://img.shields.io/badge/喜欢-科技-green)
 ![](https://img.shields.io/badge/喜欢-甜品-green)
@@ -20,8 +22,9 @@
 
 ## 技术栈
 - [x] Python
-- [x] HTML
 - [x] Java
+- [x] HTML
+- [x] PHP
 
 ## 参与的项目
 ### 个人项目
@@ -32,11 +35,12 @@
 作为[March7thAssistant](https://github.com/moesnow/March7thAssistant)的拓展包，拥有多账户登录和独立配置文件切换等功能，适合住校生使用，实现了无需在家即可实现全自动代肝崩铁日常
 
 ### 团队项目
-- 暂无
+- [NekoProxy](https://github.com/hasaki0612-lab/NekoProxy)
 
 ## 教育经历
 - 普高
 - 大专(专业：移动应用开发)
+- 专升本ing...
 
 ## 游戏
 ### 米哈游
@@ -52,11 +56,13 @@
 - ~~明日方舟：终末地(入坑时间：2026/01/22)~~
 
 ### 腾讯
+- ~~三角洲行动(入坑时间：？)~~
 - ~~和平精英(入坑时间：？)~~
 - ~~使命召唤(入坑时间：？)~~
 
 ### Activision(动视)
-- ~~Call of Duty: Modern Warfare(入坑时间：？)~~
+- ~~Call of Duty:Modern Warfare I(入坑时间：？)~~
+- Call of Duty:Modern Warfare IV(等待降价ing...)
 
 ### Bluehole(蓝洞)
 - **PUBG: BATTLEGROUNDS(入坑时间：？)**
